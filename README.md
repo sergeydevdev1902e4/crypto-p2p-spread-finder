@@ -49,3 +49,5 @@ Profitability Matrix (Spread % minus 0.00% fee):
   Zen           Wise          1.005       1.009       +0.40%
   Wise          Revolut       1.012       1.011       -0.10%
 ```
+
+<!-- verified: 2026-09-13 -->
