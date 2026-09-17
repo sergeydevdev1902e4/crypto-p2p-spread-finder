@@ -50,4 +50,4 @@ Profitability Matrix (Spread % minus 0.00% fee):
   Wise          Revolut       1.012       1.011       -0.10%
 ```
 
-<!-- verified: 2026-09-16 -->
+<!-- verified: 2026-09-17 -->
